@@ -1,8 +1,8 @@
 # Hi I'm Bissan Omar 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bissan--Omar-blue?style=flat&logo=Linkedin&logoColor=white&link=رابط_لينكد_إن_الخاص_بك)](https://www.linkedin.com/in/bissan-omar-7769a63a2/)
-[![Instagram Badge](https://img.shields.io/badge/-@ashwaeyat.2000-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ashwaeyat.2000)](https://instagram.com/ashwaeyat.2000)
-[![Github Badge](https://img.shields.io/badge/-BissanOmar-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/BissanOmar)](https://github.com/BissanOmar)
+[![Linkedin Badge](https://img.shields.io/badge/-Bissan--Omar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bissan-omar-7769a63a2/)
+[![Instagram Badge](https://img.shields.io/badge/-@ashwaeyat.2000-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ashwaeyat.2000)
+[![Github Badge](https://img.shields.io/badge/-bissannomar28--jpg-24292e?style=flat&logo=Github&logoColor=white)](https://github.com/bissannomar28-jpg)
 
 Welcome to my profile! I'm a **First-year Computer Science Student** at WISE University and an **Aspiring Data Analyst**. I am passionate about data manipulation, database design, and finding stories hidden in numbers.
 
@@ -38,11 +38,12 @@ A database management system built to handle student and teacher records efficie
 ---
 
 ## 📈 GitHub Stats
-![Bissan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BissanOmar&show_icons=true&theme=radical)
+![Bissan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bissannomar28-jpg&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bissannomar28-jpg&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
 "I am enthusiastic about my work and always ready to refine and improve my projects until they reach perfection."
 
-[LinkedIn](https://www.linkedin.com/in/bissan-omar-7769a63a2/) | [Instagram](https://instagram.com/ashwaeyat.2000) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/bissan-omar-7769a63a2/) | [Instagram](https://instagram.com/ashwaeyat.2000)
