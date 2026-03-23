@@ -29,10 +29,10 @@ Welcome to my profile! I'm a **First-year Computer Science Student** at WISE Uni
 
 ## 📁 Featured Projects
 
-### 🐦 [Twitter Database Simulation](رابط_المشروع_هنا)
+### 🐦 [Twitter Database Simulation](https://github.com/bissannomar28-jpg/Twitter-DB)
 A detailed SQL project simulating Twitter's backend, including ER diagrams, complex constraints, and data relations.
 
-### 🏫 [School Management System](رابط_المشروع_هنا)
+### 🏫 [School Management System](https://github.com/bissannomar28-jpg/School-Management-System)
 A database management system built to handle student and teacher records efficiently using MySQL.
 
 ---
