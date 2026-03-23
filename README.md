@@ -1,6 +1,6 @@
 # Hi I'm Bissan Omar 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bissan--Omar-blue?style=flat&logo=Linkedin&logoColor=white&link=رابط_لينكد_إن_الخاص_بك)](رابط_لينكد_إن_الخاص_بك)
+[![Linkedin Badge](https://img.shields.io/badge/-Bissan--Omar-blue?style=flat&logo=Linkedin&logoColor=white&link=رابط_لينكد_إن_الخاص_بك)](https://www.linkedin.com/in/bissan-omar-7769a63a2/)
 [![Instagram Badge](https://img.shields.io/badge/-@ashwaeyat.2000-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ashwaeyat.2000)](https://instagram.com/ashwaeyat.2000)
 [![Github Badge](https://img.shields.io/badge/-BissanOmar-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/BissanOmar)](https://github.com/BissanOmar)
 
@@ -45,4 +45,4 @@ A database management system built to handle student and teacher records efficie
 ### 📫 Let's Connect!
 "I am enthusiastic about my work and always ready to refine and improve my projects until they reach perfection."
 
-[LinkedIn](رابط_بروفايلك_هنا) | [Instagram](https://instagram.com/ashwaeyat.2000) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/bissan-omar-7769a63a2/) | [Instagram](https://instagram.com/ashwaeyat.2000) | [Email](mailto:your-email@example.com)
