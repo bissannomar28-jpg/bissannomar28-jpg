@@ -47,3 +47,7 @@ A database management system built to handle student and teacher records efficie
 "I am enthusiastic about my work and always ready to refine and improve my projects until they reach perfection."
 
 [LinkedIn](https://www.linkedin.com/in/bissan-omar-7769a63a2/) | [Instagram](https://instagram.com/ashwaeyat.2000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bissannomar28-jpg&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bissannomar28-jpg&layout=compact&theme=radical" alt="Top Languages" />
+</p>
