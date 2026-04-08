@@ -46,5 +46,10 @@ A database management system built to handle student and teacher records efficie
 ### 📫 Let's Connect!
 "I am enthusiastic about my work and always ready to refine and improve my projects until they reach perfection."
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bissannomar28-jpg&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bissannomar28-jpg&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bissannomar28-jpg&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bissannomar28-jpg&layout=compact&theme=radical" alt="Top Languages" />
+</p>
