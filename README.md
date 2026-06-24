@@ -1,7 +1,6 @@
 # Hi I'm Bissan Omar 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bissan--Omar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bissan-omar-7769a63a2/)
-[![Instagram Badge](https://img.shields.io/badge/-@ashwaeyat.2000-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ashwaeyat.2000)
 [![Github Badge](https://img.shields.io/badge/-bissannomar28--jpg-24292e?style=flat&logo=Github&logoColor=white)](https://github.com/bissannomar28-jpg)
 
 Welcome to my profile! I'm a **First-year Computer Science Student** at WISE University and an **Aspiring Data Analyst**. I am passionate about data manipulation, database design, and finding stories hidden in numbers.
@@ -12,7 +11,6 @@ Welcome to my profile! I'm a **First-year Computer Science Student** at WISE Uni
 - 🎓 Currently studying Computer Science (Class of 2029).
 - 📊 Focus areas: SQL Databases, Python for Data Science, and AI Prompt Engineering.
 - 💡 Certified in Programming Fundamentals and Artificial Intelligence.
-- 🎨 Outside of coding, I enjoy street photography and sharing thoughts on my Instagram page.
 
 ---
 
