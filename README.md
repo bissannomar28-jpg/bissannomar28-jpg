@@ -32,7 +32,9 @@ A detailed SQL project simulating Twitter's backend, including ER diagrams, comp
 
 ### 🏫 [School Management System](https://github.com/bissannomar28-jpg/School-Management-System)
 A database management system built to handle student and teacher records efficiently using MySQL.
+📁 [Phonebook Application](https://github.com/bissannomar28-jpg/Phonebook-App)
 
+A Python program for managing contact records with JSON persistence, featuring phone and name lookup, search validation, and live file updates.
 ---
 
 ## 📈 GitHub Stats
